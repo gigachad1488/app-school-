@@ -11,8 +11,8 @@ namespace Naumov_and_Turanov
         static void Main(string[] args)
         {
             Teacher teacher = new Teacher();
-            teacher.Age = 35;
-            teacher.Name = "Олег";
+            teacher.Age = 500;
+            teacher.Name = "говнюк";
             teacher.Discipline = "История и общество";
             teacher.SayHello();
             Console.Read();

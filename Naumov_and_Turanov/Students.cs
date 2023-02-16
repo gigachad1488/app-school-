@@ -39,5 +39,6 @@ namespace Naumov_and_Turanov
         {
             Console.WriteLine($"Здравствуйте учитель {teachers?.Name}, меня зовут {names}, мне {Ages} лет и я очень счатлив!");
         }   
+        //хуйню сделали
     }
 }
